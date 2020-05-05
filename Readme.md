@@ -47,6 +47,6 @@ The following diagram shows the whole picture of Elk Stack Implementation for DV
 
 ![Filebeat Kibana](/images/filebeat-dashboard.png)
 
-![Metricbeat Kibana](/images/filebeat-dashboard.png)
+![Metricbeat Kibana](/images/metricbeat-dashboard.png)
 
 ## :loudspeaker: Coming-soon Availability zones for DVWA servers
