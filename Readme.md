@@ -42,7 +42,7 @@ The following diagram shows the whole picture of Elk Stack Implementation for DV
 10. Finally, on the jumbox vm, we need to run the `filebeat-playbook.yml` and `metric-playbook.yml`
 
 ## Conclusion
-###Successful implementation of DVWA container :tada:
+### Successful implementation of DVWA container :tada:
 
 ![DVWA container](/images/dvwa.png)
 
