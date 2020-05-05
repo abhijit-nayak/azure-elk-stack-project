@@ -1,8 +1,5 @@
 # My Class Project of ELK Server Implementation :octocat:
 
-  
-
-## Steps that were involved in the whole implementation
 
 ### Aim
 To deploy an ELK (Elasticsearch-Logstash-Kibana) for DVWA setup
