@@ -43,9 +43,10 @@ The following diagram shows the whole picture of Elk Stack Implementation for DV
 
 ## Conclusion
 ###Successful implementation of DVWA container :tada:
+
 ![DVWA container](/images/dvwa.png)
 
-###Successful implementation of filebeat and metricbeat transmitting to elk server :tada:
+### Successful implementation of filebeat and metricbeat transmitting to elk server :tada:
 
 ![Filebeat Kibana](/images/filebeat-dashboard.png)
 
