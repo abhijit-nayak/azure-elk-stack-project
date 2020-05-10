@@ -90,9 +90,9 @@ SSH into the control node and follow the steps below:
 - Copy the [elk server playbook](/ansibleplaybooks/elk-server-playbook.yml),[filebeat-playbook](/ansibleplaybooks/filebeat-playbook.yml) [metricbeat-playbook](/ansibleplaybooks/metricbeat-playbook.yml)  file to `/etc/ansible`.
 - Copy the [filebeat.yml](/ansibleplaybooks/filebeat.yml), [metricbeat.yml](/ansibleplaybooks/metricbeat.yml) to `/etc/ansible` and update the ip address for kibana and elastic search with elk vm ip address.
 - Update the hosts file to include ip address of elk server VM to install elk servers
-- Run the playbook, and navigate to http://<elk server public ip>:5601 to check that the installation worked as expected.
+- Run the playbook, and navigate to `http://<elk server public ip>:5601` to check that the installation worked as expected.
 - Update the hosts file to include ip address of DVWA machines to install filebeat and metricbeat
-- Run the playbook for filebeat and metricbeat and http://<elk server public ip>:5601 and check whether filebeat and metric beat dashboard are generated.
+- Run the playbook for filebeat and metricbeat and `http://<elk server public ip>:5601` and check whether filebeat and metric beat dashboard are generated.
 
 ### Screenshots :tada:
 
